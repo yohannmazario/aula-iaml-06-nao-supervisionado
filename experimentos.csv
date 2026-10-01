@@ -1,0 +1,8 @@
+experimento,algoritmo,k,inercia,silhueta
+kmeans_k2,KMeans,2,1241.3,0.402
+kmeans_k3,KMeans,3,832.4,0.482
+kmeans_k4,KMeans,4,515.4,0.591
+kmeans_k5,KMeans,5,305.7,0.614
+kmeans_k6,KMeans,6,237.1,0.557
+kmeans_k7,KMeans,7,213.1,0.488
+kmeans_k8,KMeans,8,194.7,0.463
